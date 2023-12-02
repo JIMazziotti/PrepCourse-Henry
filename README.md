@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio para practicar en el Modulo 2 de Henry.
+Juan Mazziotti
+
+Esto es una prueba para crear un proyecto de GitHub y trabajar con el en la computadora.
