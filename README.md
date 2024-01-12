@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio para practica del modulo 2 del Prep Course
+Esta es una prueba para subir y clonar un repositorio de GitHub a mi escritorio local
